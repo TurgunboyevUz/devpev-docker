@@ -367,7 +367,7 @@
                 </p>
                 
                 <div style="text-align: center;">
-                    <a href="#" class="cta-button">Boshlash</a>
+                    <a href="https://t.me/devpevuz" class="cta-button">Boshlash</a>
                 </div>
             </div>
         </div>
